@@ -1,0 +1,3 @@
+include ':ValidatT4L'
+include ':app'
+rootProject.name = "ValidaterT4L"
